@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PyramidSolver", "PyramidSolver\PyramidSolver.csproj", "{FECF4EC0-86BD-4FB6-B473-971DC92D15AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidTests", "PyramidTests\PyramidTests.csproj", "{189CA287-6ECC-4BCF-AF53-02B6A970A4F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECF4EC0-86BD-4FB6-B473-971DC92D15AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECF4EC0-86BD-4FB6-B473-971DC92D15AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECF4EC0-86BD-4FB6-B473-971DC92D15AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECF4EC0-86BD-4FB6-B473-971DC92D15AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189CA287-6ECC-4BCF-AF53-02B6A970A4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189CA287-6ECC-4BCF-AF53-02B6A970A4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189CA287-6ECC-4BCF-AF53-02B6A970A4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189CA287-6ECC-4BCF-AF53-02B6A970A4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6F1883-A3E0-41BD-96D9-E3230AF1B0F7}
+	EndGlobalSection
+EndGlobal
